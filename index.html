@@ -187,7 +187,7 @@ if (!reduceMotion && finePointer) {
     el.addEventListener('pointerleave', () => { el.style.transform=''; });
   });
 }
-const DOWNLOAD_URL = "";
+const DOWNLOAD_URL = "https://github.com/manofrancis-dev/airmousepro/releases/download/v1.0.0/AirMousePro_Setup_v1.0.0.exe";
 const modal = document.getElementById('modal');
 document.getElementById('downloadBtn').addEventListener('click',()=>{if(DOWNLOAD_URL){location.href=DOWNLOAD_URL}else{modal.classList.add('show')}});
 document.getElementById('closeModal').addEventListener('click',()=>modal.classList.remove('show'));
