@@ -1,0 +1,8 @@
+AirMouse Pro SEO edit checklist
+
+1. Publish with the exact repo name `airmousepro` OR replace every https://manofrancis-dev.github.io/airmousepro/ reference.
+2. Replace const DOWNLOAD_URL in index.html with the real installer URL.
+3. Confirm GitHub / LinkedIn / portfolio URLs in the footer.
+4. Add the deployed URL to Google Search Console.
+5. Submit sitemap.xml and request indexing for the homepage.
+6. Recheck Google Search Console after Google crawls the site.
