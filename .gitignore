@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / Build outputs
+build/
+dist/
+Output/
+*.spec.bak
+
+# Archives
+*.zip
+*.tar.gz
+
+# Environment and IDEs
+.env
+.venv
+env/
+venv/
+.vscode/
+.idea/
+
+# Operating System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
